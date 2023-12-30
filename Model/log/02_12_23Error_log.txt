@@ -1,0 +1,45 @@
+
+Error Msg >>>Unknown database 'masterdatabase1'
+Error dateTime >>>02-12-2023 14:39:43 PM
+
+Error Msg >>>Unknown database 'masterdatabase1'
+Error dateTime >>>02-12-2023 14:41:02 PM
+
+Error Msg >>>Unknown database 'masterdatabase1'
+Error dateTime >>>02-12-2023 14:41:36 PM
+
+Error Msg >>>Unknown database 'masterdatabase1'
+Error dateTime >>>02-12-2023 14:41:36 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:53:03 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:53:13 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:55:17 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:55:17 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:55:18 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:55:18 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:55:18 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:55:18 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:55:18 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:55:18 PM
+
+Error Msg >>>php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Error dateTime >>>02-12-2023 14:55:19 PM
